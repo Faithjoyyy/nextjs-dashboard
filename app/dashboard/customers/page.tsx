@@ -1,4 +1,4 @@
-export default function Page() {
-    return <p>Customers Page</p>;
+export default function loading() {
+    return <div>Customers Page</div>;
   }
   
